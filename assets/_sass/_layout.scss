@@ -164,14 +164,14 @@ a {
   color: #fff;
   text-shadow: 2px 0 5px #333;
   position: absolute;
-  bottom: 20%;
+  bottom: 40%;
   width: 80%;
   left: 10%;
   .heading a {
     position: relative;
     margin-right: 5px;
     text-decoration: none;
-    &:hover { text-decoration: underline; }
+    &:hover { text-decoration: none; }
     &:not(:last-child):after {
       content: " , ";
       position: absolute;
@@ -253,6 +253,16 @@ article {
   }
 
 }
+.post-content a{
+  color: #949494;
+    text-decoration: none;
+    border-bottom: 1px dashed #949494;
+    font-style: italic;
+    font-weight: bold;
+    &:hover{
+      text-decoration: none;
+    }
+}
 
 
 /*
@@ -300,7 +310,6 @@ article {
   text-align: center;
   line-height: 1.5em;
 }
-
 
 
 /*
