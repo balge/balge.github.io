@@ -2,12 +2,12 @@
 bg: tools.jpg
 layout: post
 title: Video、Audio碰上的坑
-crawlertitle: Video、Audio碰上的坑
+crawlertitle: 开发中碰上的坑
 summary: 有哪些跳过的坑
 date: '2018-02-05 10:30:00 +0700'
 categories: posts
 tags:
-  - Video、Audio
+  - H5 JS
 author: Crab
 ---
 
