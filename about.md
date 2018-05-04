@@ -181,7 +181,6 @@ if (_this.curDistance[index] + _this.offsetSum > 2 * _this.liHeight) {
 以下均为我熟练使用的技能
 
 - 前端框架：Bootstrap/Jquery/React/React-router/Redux
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
 - 版本管理、文档和自动化部署工具：Git
 
 
