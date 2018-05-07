@@ -166,6 +166,12 @@ if (_this.curDistance[index] + _this.offsetSum > 2 * _this.liHeight) {
 
 ---
 
+## 自我描述
+
+  3年以上前端开发岗位工作经历，精通html，css，js，熟悉页面架构和布局，熟悉React.js, Redux，了解掌握webpack的构建配置使用，对前端模块化开发有一定了解，了解nodejs，通过koa搭建web服务，熟悉git工具；
+  在智才广赢的三年，通过自己的努力成为部门主管，带领小团队不断克服困难和迎接挑战（如何合理分配爆发需求，按时发布上线；培训部门同事，加强业务能力；建设好团队，争取甲方机会，扩展业务量），有较好的学习能力，找工作最重要的是平台好，团队氛围好，能稳定发展，有机会接触前沿技术。
+
+
 ## 学习作品
   - [熟悉webpack](https://github.com/balge/webpack-demo)
   - [webapp-大众点评](https://github.com/balge/webapp-dianping)
